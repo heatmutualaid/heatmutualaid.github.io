@@ -16,7 +16,7 @@ CONTACT: `HEATMUTUALAID@RISEUP.NET`
     3. [SHELTER](#Shelter)
     4. [FIRE](#Fire)
     5. [SELF-DEFENCE](#Self-defence)
-    6. [FIRST-AID](#Firstaid)
+    6. [FIRST-AID](#First-aid)
     7. [PET](#Pet)
 
 ## EVACUATION <a name="Evacuation"></a>
@@ -72,7 +72,7 @@ CONTACT: `HEATMUTUALAID@RISEUP.NET`
 ![alt text](https://i.redd.it/44tyeqnsu8751.jpg "SURVIVE VEHICLE ROLLOVER")
 
 
-### FIRST-AID <a name="firstaid"></a>
+### FIRST-AID <a name="First-aid"></a>
 
 ![alt text](https://i.redd.it/eln0tm7kcei61.jpg "TAPE A SPRAINED ANKLE")
 
