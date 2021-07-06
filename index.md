@@ -9,7 +9,7 @@ CONTACT: `HEATMUTUALAID@RISEUP.NET`
 # Table of Contents
 
 1. [EVACUATION](#Evacuation)
-2. [CREATE YOUR OWN EMERGENCY KIT](#Emergency)
+2. [EMERGENCY PREPPING](#Emergency)
 3. [RESOURCES](#Resources)
     1. [WATER](#Water)
     2. [FOOD](#Food)
@@ -26,9 +26,11 @@ CONTACT: `HEATMUTUALAID@RISEUP.NET`
 
 ![alt text](https://i.redd.it/e68fr1epq9971.jpg "HOW TO PREPARE FOR EVACUATION")
 
-## CREATE YOUR OWN EMERGENCY KIT <a name="Emergency"></a>
+## EMERGENCY PREPPING <a name="Emergency"></a>
 
-![alt text](https://i.redd.it/rphvbkem5v941.jpg "CREATE YOUR OWN EMERGENCY KIT")
+![alt text](http://motherhoodontherocks.com/wp-content/uploads/2014/08/Mission9_Kit_600w24.jpg "CREATE YOUR OWN EMERGENCY KIT")
+
+![alt text](http://www.nepamom.com/wp-content/uploads/2014/08/Project-Envolve-Emergency-Guide.jpg "EMERGENCY PREP GUIDE")
 
 ## RESOURCES <a name="Resources"></a>
 
